@@ -1,6 +1,6 @@
 # Node Sorting API
 ## Getting Started:
-Clone the repository into your desired directory by running: `git clone link`
+Clone the repository into your desired directory by running: `git clone https://github.com/supermancash/sortingAppNode.git`
 
 Next run `npm install` in the cloned directory
 
