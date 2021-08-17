@@ -1,5 +1,5 @@
 # Node Sorting API
-##Getting Started:\
+## Getting Started:\
 Clone the repository into your desired directory by running: `git clone link`
 
 Next run `npm install` in the cloned directory
@@ -7,7 +7,7 @@ Next run `npm install` in the cloned directory
 Finally, run `npm start` to start the server locally.
 (The default port is set to 3000)
 
-##Requests and Enpoints:
+## Requests and Enpoints:
 The default [GET endpoint][1] can be called **with** a parameter: /getpolicy?id=\<Desired ID>\
 or **without** any parameters in which case the current list of 
 **all** car policies will be returned
