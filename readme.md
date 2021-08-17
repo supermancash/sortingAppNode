@@ -1,5 +1,5 @@
 # Node Sorting API
-## Getting Started:\
+## Getting Started:
 Clone the repository into your desired directory by running: `git clone link`
 
 Next run `npm install` in the cloned directory
